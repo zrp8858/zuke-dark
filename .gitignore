@@ -1,6 +1,8 @@
 # Private working folders -- never pushed to the public repo.
 # ideas/ is live planning notes; source-material/ holds other people's assets
 # (e.g. the pack this one is based on) that we don't have redistribution
-# rights to.
+# rights to; dev-client/ is a local Gradle project for launching Minecraft to
+# test the pack (build output, caches, saves, logs).
 ideas/
 source-material/
+dev-client/
